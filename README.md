@@ -2,4 +2,4 @@
 Just for learning
 
 Hola folks! 
-just having introduction to github.
+just going through introduction to github.
